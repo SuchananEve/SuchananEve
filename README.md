@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eve</h1>
 <h3 align="center">CPE</h3>
 <p align="left">
-- I am Newbie na ka 🤓.
+- I am Newbie na ka 🤓. <br>
 - Student of Computer Engineering 🖥️. <br>
 - Rajamangala University of Technology Thanyaburi. 
 </p>
