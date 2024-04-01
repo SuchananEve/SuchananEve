@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Eve</h1>
 <h3 align="center">CPE</h3>
 <p align="left">
-- I am Newbie na ka 🤓. <br>
-- Student of Computer Engineering 🖥️. <br>
-- Rajamangala University of Technology Thanyaburi. 
+- I am Newbie na ka. 🤓 <br>
+- Student of Computer Engineering. 💻<br>
+- Rajamangala University of Technology Thanyaburi. 🎓
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suchananppeve&show_icons=true&theme=radical)
